@@ -1,0 +1,47 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "vblog",
+				"navigationBarTextStyle":"white"
+			}
+		}
+	    ,{
+            "path" : "pages/about/about/about",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/classification/classification",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "#515151",
+		"navigationBarTitleText": "vblog",
+		"navigationBarBackgroundColor": "#272725",
+		"backgroundColor": "#272725"
+	},
+	"tabBar": {
+	    "color": "#7A7770",
+	    "selectedColor": "#D6D0C4",
+	    "borderStyle": "black",
+	    "backgroundColor": "#272725",
+	    "list": [{
+	        "pagePath": "pages/index/index",
+	        "iconPath": "static/icon/index.png",
+	        "selectedIconPath": "static/icon/index_gray.png",
+	        "text": "首页"
+	    }, {
+	        "pagePath": "pages/classification/classification",
+	        "iconPath": "static/icon/type.png",
+	        "selectedIconPath": "static/icon/type_gray.png",
+	        "text": "分类"
+	    },{
+	        "pagePath": "pages/about/about/about",
+	        "iconPath": "static/icon/about.png",
+	        "selectedIconPath": "static/icon/about_gray.png",
+	        "text": "关于"
+	    }]
+	}
+}
