@@ -7520,9 +7520,9 @@ module.exports = g;
 
 /***/ }),
 /* 4 */
-/*!*********************************!*\
-  !*** D:/Hwork/vblog/pages.json ***!
-  \*********************************/
+/*!********************************************************************!*\
+  !*** /Users/chenaiwei/Documents/workSpace/uniApp/vblog/pages.json ***!
+  \********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8427,20 +8427,20 @@ module.exports = {"_from":"@dcloudio/uni-stat@^2.0.0-alpha-24420191128001","_id"
 
 /***/ }),
 /* 7 */
-/*!**************************************************!*\
-  !*** D:/Hwork/vblog/pages.json?{"type":"style"} ***!
-  \**************************************************/
+/*!*************************************************************************************!*\
+  !*** /Users/chenaiwei/Documents/workSpace/uniApp/vblog/pages.json?{"type":"style"} ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/index/index": { "navigationBarTitleText": "vblog", "navigationBarTextStyle": "white", "usingComponents": {} }, "pages/about/about/about": { "usingComponents": {} }, "pages/classification/classification": { "usingComponents": {} } }, "globalStyle": { "navigationBarTextStyle": "white", "navigationBarTitleText": "vblog", "navigationBarBackgroundColor": "#272725", "backgroundColor": "#272725" } };exports.default = _default;
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/index/index": { "usingComponents": {} }, "pages/detail/detail": { "navigationBarTitleText": "vblog", "navigationBarTextStyle": "white", "usingComponents": {} } }, "globalStyle": { "navigationBarTitleText": "vblog", "navigationBarBackgroundColor": "#272725", "backgroundColor": "#272725" } };exports.default = _default;
 
 /***/ }),
 /* 8 */
-/*!*************************************************!*\
-  !*** D:/Hwork/vblog/pages.json?{"type":"stat"} ***!
-  \*************************************************/
+/*!************************************************************************************!*\
+  !*** /Users/chenaiwei/Documents/workSpace/uniApp/vblog/pages.json?{"type":"stat"} ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
